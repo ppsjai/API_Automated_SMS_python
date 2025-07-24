@@ -3,7 +3,7 @@
 #          upload this code from your desktop once it done
 # TODO-2: click that file once it open you see an CLI in that CLI we are going to create environment variable for these below 2 line of code 
 # api_key = os.environ.get("OWM_API_KEY")
-# auth_token = os.environ.get("AUTH_TOKEN")
+# auth_token = os.environ.get("AUTH_TOKEN")#
 # TODO-3: In CLI use this commands export OWM_API_KEY=your api key form twilio and press enter use env cmd to check it has created envronment variable or not once you find it
 # TODO-4: same as this commands export AUTH_TOKEN=your authentication key from twilio press enter and check using this env cmd it has created or not
 # TODO-5: excute this commands python3 your_uploaded_file_name.py now it will send an sms to that number dont forget to save it. 
