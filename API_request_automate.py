@@ -48,7 +48,7 @@ if might_be_rain_today:
     message = client.messages.\
         create(
         body="It's gonna rain right now go and grab the umbrella before you went outside | ~ |",
-        from_="+13867031135",
-        to="+916379364759",
+        from_="+1Auto generate should be here",
+        to="+91your number",
     )
     print(message.status)
